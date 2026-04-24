@@ -1,2 +1,2 @@
 # first-website
-My first ever website that I made in 4th grade (in notepad) after reading Build Your Own Website by Robert L. Perry. My dad use to host it on his own domain for me. The facts are from a book I had called How Come by Kathy Wollard
+My first ever website that I made in 4th grade (in notepad) after reading [Build Your Own Website by Robert L. Perry](https://archive.org/details/buildyourownwebs0000robe/mode/2up). My dad use to host it on his own domain for me. The file was originally named science.html but I changed it to index.html for simpler hosting. The facts are from a book I had called [How Come by Kathy Wollard](https://archive.org/details/howcome00woll)

@@ -1,0 +1,13 @@
+{
+  "name": "first-website",
+  "compatibility_date": "2026-01-18",
+  "assets": {
+    "directory": "./public"
+  },
+  "routes": [
+    {
+      "pattern": "first.tryomas.com",
+      "custom_domain": true
+    }
+  ]
+}
